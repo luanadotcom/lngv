@@ -4,7 +4,7 @@ Using gohugo.io to host lngv.io.
 
 
 
-## Create new blog posts
+## How to create new blog posts
 
 ```
 hugo new blog/YourEntryTitle.md
